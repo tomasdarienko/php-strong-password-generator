@@ -24,6 +24,10 @@ Dare all’utente anche la possibilità di permettere o meno la ripetizione di c
 include __DIR__ . "/./functions.php";
 
 
+if (isset($_GET["lunghezza"]));
+
+$lung = $_GET["lunghezza"];
+
 
 ?>
 

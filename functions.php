@@ -2,10 +2,6 @@
 
       
 
-     if (isset($_GET["lunghezza"]));
-
-          $lung = $_GET["lunghezza"];
-
 
 
      function generateRandomString($lung)
